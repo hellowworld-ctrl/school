@@ -1,46 +1,47 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0b0a12,45:0e3b3a,100:22d3ee&text=SCHOOL&fontAlignY=42&fontSize=58&fontColor=ffffff&desc=cs%20%40%20sjsu%20%C2%B7%20classwork%20that%20grew%20teeth&descAlignY=68&descSize=16" width="100%"/>
 
-# school
+<p align="center">
+  <a href="https://github.com/hellowworld-ctrl"><img src="https://img.shields.io/badge/%E2%86%90%20profile-0b0a12?style=for-the-badge"/></a>
+  <a href="https://github.com/hellowworld-ctrl/hackathons"><img src="https://img.shields.io/badge/hackathons%20folder-a78bfa?style=for-the-badge&labelColor=0b0a12"/></a>
+</p>
 
-cs @ san josé state.
-class builds, studios, and the assignments that grew teeth.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=680&lines=CS41+%C2%B7+ten+days+%C2%B7+gold;you+are+john+mcafee;belize+goes+sideways;miami+is+the+extract" alt="school typing"/>
+</p>
 
-[back to profile](https://github.com/hellowworld-ctrl) · [hackathons folder](https://github.com/hellowworld-ctrl/hackathons)
+this is the school locker. coursework lives here so the profile stays a front door, not a junk drawer.
 
-</div>
+## locker door
 
-this folder is the home for coursework. keep class repos linked here so the profile stays tidy.
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+### 🎮 Wild Ride
+**CS41 · 10-day sprint · spring 2024**
 
-## lineup
+narrative rpg. you are john mcafee. belize goes sideways. miami is the extract.
 
-| project | course / context | what it is |
-| --- | --- | --- |
-| **[Wild Ride](https://github.com/hellowworld-ctrl/John-McAfrees-Wild-Ride-Third-Week-Anniversary-Edition-Collectors-Edition)** | CS41 · 10-day sprint, spring 2024 | narrative rpg. you are john mcafee. belize goes sideways. miami is the win condition. c++, original score, too many `.wav` files |
-| **Canvas-Ultra** | school tooling | canvas, but better. kept at its current visibility |
-
-## wild ride, quickly
-
-> making a compelling piece of media in ten days. soundtrack more memorable than mario. fidelity that wants to be the new crisis.
-
+c++ · original score · too many `.wav` files  
 project lead: volodymyr surin  
-status: they called it gold on 5/6/24
+status: **gold — 2024-05-06**
 
-controls live in the [repo readme](https://github.com/hellowworld-ctrl/John-McAfrees-Wild-Ride-Third-Week-Anniversary-Edition-Collectors-Edition).
+> soundtrack more memorable than mario. fidelity that wants to be the new crisis.
 
-## how to use this folder
+[🎮 full repo](https://github.com/hellowworld-ctrl/John-McAfrees-Wild-Ride-Third-Week-Anniversary-Edition-Collectors-Edition) · [📁 folder](./wild-ride)
 
-```text
-school/
-  cs41-wild-ride/     # or just link the existing repo
-  canvas-ultra/
-  <next-class-project>/
-```
+</td>
+<td width="45%" valign="top">
 
-link class repos from the table. drop notes, writeups, and screenshots in this repo when you do not want a brand-new project for every assignment.
+### 📄 Canvas-Ultra
+canvas, but less miserable.
 
-## notes
+the original repo was left at its current visibility on purpose. this folder is the note on the locker, not a second copy of the source.
 
-- existing repositories were not made public or private
-- canvas-ultra stays exactly as it was
+[📁 folder](./canvas-ultra)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:22d3ee,100:0b0a12&section=footer" width="100%"/>
